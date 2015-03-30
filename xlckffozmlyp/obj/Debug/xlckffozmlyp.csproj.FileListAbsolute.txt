@@ -1,1 +1,2 @@
 C:\Users\Romain\Dropbox\EPSI B1\Projets\Algo C#\xlckffozmlyp\xlckffozmlyp\bin\Debug\xlckffozmlyp.exe.config
+C:\Users\vincent\Documents\Visual Studio 2013\xlckffozmlyp\xlckffozmlyp\bin\Debug\xlckffozmlyp.exe.config
